@@ -1,0 +1,13 @@
+{
+  "name": "beagle-hello",
+  "version": "0.0.0",
+  "description": "Beagle hello World test module",
+  "keywords": ["beagle"],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/beagle-hello.tests.js"
+  },
+  "author": "Richard Littauer <richard.littauer@gmail.com>",
+  "license": "MIT"
+}
