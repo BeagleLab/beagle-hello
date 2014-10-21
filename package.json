@@ -1,0 +1,35 @@
+{
+  "name": "beagle-hello",
+  "version": "0.0.2",
+  "description": "Beagle hello World test module",
+  "keywords": [
+    "beagle"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/beagle-hello.tests.js"
+  },
+  "author": {
+    "name": "Richard Littauer",
+    "email": "richard.littauer@gmail.com"
+  },
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeagleLab/beagle-hello.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BeagleLab/beagle-hello/issues"
+  },
+  "homepage": "https://github.com/BeagleLab/beagle-hello",
+  "readme": "beagle-hello\n============\n\nA testing module\n",
+  "readmeFilename": "README.md",
+  "gitHead": "328e0e95ef9e5f0f9c37730f9abfc5bbfe54b052",
+  "_id": "beagle-hello@0.0.2",
+  "_shasum": "0ae21a65489f6ff2d72fd5f2c9d079f8b73ea816",
+  "_from": "beagle-hello@*"
+}
